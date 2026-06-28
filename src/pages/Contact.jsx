@@ -84,7 +84,7 @@ const Contact = () => {
               <div>
                 <h4 className="font-bold text-lg">Call Us</h4>
                 <p className="text-gray-600">
-                  +91 96918 89878
+                  +91 724 084 0269
                 </p>
               </div>
             </div>
@@ -94,7 +94,7 @@ const Contact = () => {
               <div>
                 <h4 className="font-bold text-lg">Email Us</h4>
                 <p className="text-gray-600">
-                  info@drruchikakolte.com
+                  +91 724 084 0269
                 </p>
               </div>
             </div>
@@ -121,7 +121,7 @@ const Contact = () => {
             </div>
 
             <a
-              href="https://wa.me/919691889878"
+              href="https://wa.me/917240840269"
               target="_blank"
               rel="noreferrer"
               className="flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 text-white py-4 rounded-2xl font-semibold transition"
