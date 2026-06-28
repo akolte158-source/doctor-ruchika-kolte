@@ -17,12 +17,12 @@ const TopBar = () => {
         <div className="flex items-center gap-6">
           <div className="flex items-center gap-2">
             <FaPhoneAlt className="text-teal-400" />
-            <span>+91 96918 89878</span>
+            <span>+91 724 084 0269</span>
           </div>
 
           <div className="flex items-center gap-2">
             <FaEnvelope className="text-teal-400" />
-            <span>info@drruchikakolte.com</span>
+            <span>drruchikakolte@gmail.com</span>
           </div>
 
           <div className="flex items-center gap-2">
