@@ -33,28 +33,28 @@ const Footer = () => {
             <div className="flex gap-4 mt-6">
 
               <a
-                href="#"
+                href="https://www.facebook.com/share/14g56VYqYZb/"
                 className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-teal-500 transition"
               >
                 <FaFacebookF />
               </a>
 
               <a
-                href="#"
+                href="https://www.instagram.com/sensory_with_ruchika?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== "
                 className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-teal-500 transition"
               >
                 <FaInstagram />
               </a>
 
               <a
-                href="#"
+                href="https://www.linkedin.com/in/dr-ruchika-kolte-b99b242b3?utm_source=share_via&utm_content=profile&utm_medium=member_androidsz"
                 className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-teal-500 transition"
               >
                 <FaLinkedinIn />
               </a>
 
               <a
-                href="https://wa.me/919691889878"
+                href="https://whatsapp.com/channel/0029VbAnpwDJUM2aG0Yg7m37"
                 target="_blank"
                 rel="noreferrer"
                 className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-green-500 transition"
@@ -135,14 +135,14 @@ const Footer = () => {
               <div className="flex gap-3">
                 <FaPhoneAlt className="text-teal-400 mt-1" />
                 <span className="text-gray-300">
-                  +91 96918 89878
+                  +91 724 084 0269
                 </span>
               </div>
 
               <div className="flex gap-3">
                 <FaEnvelope className="text-teal-400 mt-1" />
                 <span className="text-gray-300">
-                  info@drruchikakolte.com
+                  drruchikakolte@gmail.com
                 </span>
               </div>
 
