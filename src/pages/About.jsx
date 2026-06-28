@@ -72,7 +72,7 @@ const About = () => {
 
               <div className="bg-white p-5 rounded-2xl shadow">
                 <FaAward className="text-3xl text-teal-500 mb-3" />
-                <h3 className="font-bold">10+ Years</h3>
+                <h3 className="font-bold">5+ Years</h3>
                 <p className="text-gray-500 text-sm">
                   Clinical Experience
                 </p>
@@ -80,7 +80,7 @@ const About = () => {
 
               <div className="bg-white p-5 rounded-2xl shadow">
                 <FaUsers className="text-3xl text-teal-500 mb-3" />
-                <h3 className="font-bold">5000+</h3>
+                <h3 className="font-bold">50+</h3>
                 <p className="text-gray-500 text-sm">
                   Happy Patients
                 </p>
