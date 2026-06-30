@@ -510,7 +510,7 @@ const Appointment = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/appointment",
+        "https://doctor-ruchika-kolte-backend-1.onrender.com/api/appointment",
         {
           method: "POST",
           headers: {
